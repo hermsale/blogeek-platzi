@@ -1,0 +1,126 @@
+[33mcommit 6a3a4ba2114b01e50f7293d9122ef17adc0e6af0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 0975484 79b7ef4
+Author: jggomez <juan.gomez01@gmail.com>
+Date:   Wed Nov 21 12:26:42 2018 -0500
+
+    Merge branch 'master' of https://github.com/jggomez/blogeek-platzi
+
+[33mcommit 0975484aa7055dc2763dcd8af67acab5708f1920[m[33m ([m[1;31morigin/probandonotificaciones[m[33m)[m
+Author: jggomez <juan.gomez01@gmail.com>
+Date:   Wed Nov 21 12:24:35 2018 -0500
+
+    se coloca comentarios
+
+[33mcommit 9b87f84867c1331f6fc9a4b4c30f42655707180b[m
+Author: jggomez <juan.gomez01@gmail.com>
+Date:   Wed Nov 21 10:32:53 2018 -0500
+
+    se corrigen algunos metodos y se prueba los mensajes en foreground y background
+
+[33mcommit 21e8a99328c719497634b22bdf8896e060c0139b[m[33m ([m[1;31morigin/recibirnotificaciones[m[33m)[m
+Author: jggomez <juan.gomez01@gmail.com>
+Date:   Wed Nov 21 09:20:02 2018 -0500
+
+    se agrega las funciones para recibir las notificaciones en foreground y background
+
+[33mcommit 4dfa39f3563453e7059400665475488d8d9b0c4d[m[33m ([m[1;31morigin/firebasenotificaciones[m[33m, [m[1;31morigin/firebasehostingpersonalizado[m[33m)[m
+Author: jggomez <juan.gomez01@gmail.com>
+Date:   Wed Nov 21 09:04:38 2018 -0500
+
+    se agrega personalización en el hosting
+
+[33mcommit 79b7ef4a2de8fbba2258d8fc00f5a8493f5a8eae[m
+Author: Juan Guillermo Gómez Torres <juan.gomez01@gmail.com>
+Date:   Tue Nov 20 18:26:12 2018 -0500
+
+    Update README.md
+
+[33mcommit 7dfe2855f0aed8682e73cfa9cad40e4a2a3832c7[m
+Author: Juan Guillermo Gómez Torres <juan.gomez01@gmail.com>
+Date:   Tue Nov 20 18:06:29 2018 -0500
+
+    Create README.md
+
+[33mcommit 497ed39724238eb7b0736a44befa593df9452635[m
+Author: Juan Guillermo Gómez Torres <juan.gomez01@gmail.com>
+Date:   Tue Nov 20 18:04:30 2018 -0500
+
+    Update README.md
+
+[33mcommit 87d1d437a2f0ebbcd9f069a9749592b0199dd6ea[m[33m ([m[1;31morigin/firebasehosting[m[33m)[m
+Author: jggomez <juan.gomez01@gmail.com>
+Date:   Tue Nov 20 12:39:14 2018 -0500
+
+    se sube la app al hosting
+
+[33mcommit 07efc86c24e0940e99ea56a1437ab164b948c181[m[33m ([m[1;31morigin/firebasestorage[m[33m)[m
+Author: jggomez <juan.gomez01@gmail.com>
+Date:   Tue Nov 20 11:35:51 2018 -0500
+
+    se agega el codigo para subir imagenes al storage
+
+[33mcommit 7fc59e0296cd15a6fd1d8c36c9dea11eecfa6e69[m[33m ([m[1;31morigin/firestoreindices[m[33m)[m
+Author: jggomez <juan.gomez01@gmail.com>
+Date:   Tue Nov 20 11:01:53 2018 -0500
+
+    se agrega consulta order by por fecha y titulo y se crea indices en la consola
+
+[33mcommit aafadd050e86d8a7fe3da896d1f066b14cacd853[m[33m ([m[1;31morigin/firestorerealtime[m[33m)[m
+Author: jggomez <juan.gomez01@gmail.com>
+Date:   Tue Nov 20 09:54:48 2018 -0500
+
+    se agrega consulta de todos los posts y mis post en real time
+
+[33mcommit 5274ae8a3f8f6fbcb83212d295c4b39bb7961555[m[33m ([m[1;31morigin/firestoreinsercion[m[33m)[m
+Author: jggomez <juan.gomez01@gmail.com>
+Date:   Tue Nov 20 09:24:11 2018 -0500
+
+    se desarrolla la inserción a la base de datos y colección post
+
+[33mcommit 665d5f00fa3a1f8273b42352519e0ca152ee820e[m[33m ([m[1;31morigin/configuracionfirestore[m[33m)[m
+Author: jggomez <juan.gomez01@gmail.com>
+Date:   Tue Nov 20 08:57:42 2018 -0500
+
+    adicionamos el script de firestore a nuestro proyecto
+
+[33mcommit c4cb5888cd5d3f8233f1b015797d441967e4d7ab[m[33m ([m[1;31morigin/gestionestadousuario[m[33m)[m
+Author: jggomez <juan.gomez01@gmail.com>
+Date:   Mon Nov 19 12:53:17 2018 -0500
+
+    se desarrolla la gestion del estado de los usuarios
+
+[33mcommit 6b0034ed72cac1e8009002fd49a4758b3fb4724a[m[33m ([m[1;31morigin/serviciosauthfacebook[m[33m)[m
+Author: jggomez <juan.gomez01@gmail.com>
+Date:   Mon Nov 19 12:28:36 2018 -0500
+
+    se desarrolla el metodo de autenticacion con facebook
+
+[33mcommit 7aa6734d82a6a47b151a492185bf58855bec1d0f[m[33m ([m[1;31morigin/serviciosauthgoogle[m[33m)[m
+Author: jggomez <juan.gomez01@gmail.com>
+Date:   Mon Nov 19 11:53:18 2018 -0500
+
+    se desarrolla el metodo de autenticacion con google
+
+[33mcommit 490984435cf27e25d4b75beb2dbcc094345d7541[m[33m ([m[1;31morigin/habilitarserviciosautenticacion2[m[33m)[m
+Author: jggomez <juan.gomez01@gmail.com>
+Date:   Mon Nov 19 11:42:49 2018 -0500
+
+    se desarrolla el metodo de autenticacion con email y password
+
+[33mcommit 3f2a1547c01604ba978982df2de14d9c95f91e8d[m[33m ([m[1;31morigin/habilitarserviciosautenticacion[m[33m)[m
+Author: jggomez <juan.gomez01@gmail.com>
+Date:   Mon Nov 19 11:19:10 2018 -0500
+
+    se desarrolla el metodo de creación de cuenta con email y pass
+
+[33mcommit 1f3d16b4df5e137b572d406159c6bae745ea1da7[m
+Author: jggomez <juan.gomez01@gmail.com>
+Date:   Mon Nov 19 10:45:09 2018 -0500
+
+    se agregar scripts de configuración de auth
+
+[33mcommit 3c39e11cc8f5ed7b0c98429669c0bc23a49fa196[m[33m ([m[1;31morigin/configuracionfirebasealproyecto[m[33m)[m
+Author: jggomez <juan.gomez01@gmail.com>
+Date:   Mon Nov 19 10:25:46 2018 -0500
+
+    se crea proyecto y configuración de firebase
